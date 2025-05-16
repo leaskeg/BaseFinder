@@ -1,10 +1,5 @@
-Great! Let’s make your **GitHub repo look professional** by adding a proper `README.md` and filling out the **"About"** section.
-
----
-
 ### ✅ 1. Suggested `README.md` (you can copy-paste this)
 
-````markdown
 # BaseFinder
 
 **BaseFinder** is a Python-based tool designed to automate the detection and tracking of base coordinates from image data, typically used in strategy games or map analysis tools.
