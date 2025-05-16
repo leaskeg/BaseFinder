@@ -21,7 +21,7 @@ Great! Let’s make your **GitHub repo look professional** by adding a proper `R
 ```bash
 git clone https://github.com/leaskeg/BaseFinder.git
 cd BaseFinder
-pip install -r requirements.txt```
+pip install -r requirements.txt
 ````
 
 ## Usage
