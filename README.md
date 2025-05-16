@@ -1,5 +1,3 @@
-### ✅ 1. Suggested `README.md` (you can copy-paste this)
-
 # BaseFinder
 
 **BaseFinder** is a Python-based tool designed to automate the detection and tracking of base coordinates from image data, typically used in strategy games or map analysis tools.
