@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Environment variables
+.env
+env
+.env.*
+
+# Virtual environment
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# VS Code settings
+.vscode/
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# Logs
+*.log
+
+# Misc
+*.swp
